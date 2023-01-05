@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Capa do projeto" src="assets/table.png" width="40%">
+<img alt="Capa do projeto" src="assets/table.PNG" width="40%">
 </div>
 
 ## 💻 Projeto
